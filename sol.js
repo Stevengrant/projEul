@@ -32,4 +32,3 @@ let problem2 = () => {
     }
     getFib();
 }
-problem2();
